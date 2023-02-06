@@ -1,1 +1,1 @@
-# goamateur.github.io
+GoAMATEUR
