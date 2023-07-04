@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siyuan Huang"
 title_separator          : "-"
 name                     : &name "Siyuan Huang"
-description              : &description "Undergraduate @ SJTU"
+description              : &description "Robotics MSE @ UPenn"
 url                      : https://goamateur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "goamateur/goamateur.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "HUANG Siyuan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Shanghai, China"
+  bio              : "Undergraduate @ SJTU"
+  location         : "philadelphia, PA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  "goamateur@sjtu.edu.cn"
+  email            :  "hsy2001@seas.upenn.edu"
   researchgate     : 
   uri              :
   bitbucket        :

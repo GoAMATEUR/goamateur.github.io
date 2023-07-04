@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Automation, Shanghai Jiao Tong University, 2023
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Automation (IEEE Honor Class), Shanghai Jiao Tong University, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2022: Perception Algorithm Development Intern
+  * Utopilot Tech
+  * Duties included: Object detection development for autonomous driving.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2022: Research Assistant
+  * Imperial College London
+  * Duties included: Medical image processing.
   
 <!-- Skills
 ======
